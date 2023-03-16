@@ -4,7 +4,7 @@ import './App.css';
 import MovieCard from './MovieCard.jsx'
 
 import SearchIcon from './search.svg'
-const API_URL = 'http://www.omdbapi.com?apikey=caa9a87e'
+const API_URL = 'https://www.omdbapi.com?apikey=caa9a87e'
 
 // const movie1={
 //     "Title": "Spider-Man: Homecoming",
